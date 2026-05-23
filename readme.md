@@ -1,4 +1,4 @@
-[![Header](https://github.com/triplexlolikeker/triplexlolikeker/blob/main/assets/chill.jpg)]()
+[![Header](https://github.com/triplexlolikeker/triplexlolikeker/blob/main/assets/chill.jpg)](https://www.youtube.com/@triplexlolikeker6669)
 
 bout me
 
