@@ -2,7 +2,7 @@
 
 ## Im a 22 y/o gamer n quality assurance engineer mostly manual cuz im a newbie but surely ill improve 
 
-### laguages n tools that im using 
+## laguages n tools that im using 
 <p align="center">
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" />
@@ -27,7 +27,7 @@
 
 
 
-links 
+## links 
 
 <div align="center">
 
