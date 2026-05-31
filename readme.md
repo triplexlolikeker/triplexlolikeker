@@ -28,3 +28,9 @@
 
 
 links 
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/triplexlolikeker666)
+
+</div>
