@@ -22,6 +22,10 @@
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
     <img src="https://img.shields.io/badge/DaVinci_Resolve-5c2d91?style=flat-square&logo=davinciresolve&logoColor=white" />
   </a>
+  </a>
+  <a href="https://www.mysql.com/products/workbench/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</a>
 </p>
 
 
