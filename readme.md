@@ -22,9 +22,6 @@
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
     <img src="https://img.shields.io/badge/DaVinci_Resolve-5c2d91?style=flat-square&logo=davinciresolve&logoColor=white" />
   </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Blender-f5792a?style=flat-square&logo=blender&logoColor=white" />
-  </a>
 </p>
 
 
