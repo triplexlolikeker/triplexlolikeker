@@ -31,6 +31,7 @@ links
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/triplexlolikeker666)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/triplexlolikeker666)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44624.svg?logo=Gmail&logoColor=white)](mailto:triplexlolikeker666@gmail.com)
 
 </div>
