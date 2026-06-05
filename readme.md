@@ -42,3 +42,8 @@
 
 ## testin' docs 
 
+<p align="center">
+  <a href="https://ru.yougile.com/team/e5fa39e70d13/qa-portfolio">
+    <img src="https://img.shields.io/badge/YouGile-5B92E5?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTEyIDJMMyA3bDEgOGw4IDUgOS01VjdsLTktNXptMCAybDYuNiA0LTYuNiA0LTYuNi00TDIwIDRsOC40IDR6IiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+" alt="YouGile">
+  </a>
+</p>
