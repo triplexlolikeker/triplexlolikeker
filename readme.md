@@ -1,6 +1,6 @@
 [![Header](https://github.com/triplexlolikeker/triplexlolikeker/blob/main/assets/chill.jpg)](https://www.youtube.com/@triplexlolikeker6669)
 
-## Im a 22 y/o gamer n quality assurance engineer mostly manual cuz im a newbie but surely ill improve 
+## Im a 22 y/o gamer n quality assurance engineer 
 
 ## tools that im using 
 <p align="center">
